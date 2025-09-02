@@ -6,7 +6,7 @@ const database = () => {
 
   return (
     <div>
-      <h1 className="bg-amber-300">hello world io</h1>
+      <h1 className="bg-amber-300">hello world popiop </h1>
     </div>
   );
 };
